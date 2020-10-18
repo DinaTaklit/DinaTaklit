@@ -13,6 +13,7 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 - 😄 Pronouns: Dina, Zina (I prefer be called Dina).
 - ⚡ Beside Coding Life: Cooking, House Working, organizing events, managing fb pages and groups, discovering new cultures and languges, reading books, singing at Sumle, hand crafiting or drawing and sometimes writing stories and poem.
 
+![Profile views](https://komarev.com/ghpvc/?username=DinaTaklit&color=d73d4e)
 
 ## My Skills
 ## My projects 
