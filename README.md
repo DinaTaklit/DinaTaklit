@@ -44,7 +44,17 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 <a href="https://codepen.io/DinaTAKLIT">
   <img align="left" alt="Dina TAKLIT | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/codepen.svg" />
 </a>
+<br/>
+<br/>
 
+## Git Stats
 
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DinaTaklit&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Dina Taklit's github stars"/>
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinaTaklit&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
+</p>
 
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinataklit)](https://github.com/anuraghazra/github-readme-stats)
+-->
