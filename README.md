@@ -15,6 +15,36 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 
 ![Profile views](https://komarev.com/ghpvc/?username=DinaTaklit&color=d73d4e)
 
-## My Skills
-## My projects 
 ## Contact Me 
+
+
+<a href="https://www.linkedin.com/in/dina-taklit//">
+  <img align="left" alt="Dina TAKLIT' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/dina.taklit/">
+  <img align="left" alt="Dina TAKLIT | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCx4gIbgyVpcAZwAnKEUfJVA/">
+  <img align="left" alt="Dina TAKLIT | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" />
+</a>
+<a href="https://www.quora.com/profile/Dina-Taklit/">
+  <img align="left" alt="Dina TAKLIT | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/quora.svg" />
+</a>
+<a href="https://medium.com/@DinaTAKLIT">
+  <img align="left" alt="Dina TAKLIT | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />
+</a>
+<a href="https://github.com/DinaTaklit">
+  <img align="left" alt="Dina TAKLIT | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://stackoverflow.com/users/9039646/dina-taklit">
+  <img align="left" alt="Dina TAKLIT | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+</a>
+
+<a href="https://codepen.io/DinaTAKLIT">
+  <img align="left" alt="Dina TAKLIT | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/codepen.svg" />
+</a>
+
+
+
+
