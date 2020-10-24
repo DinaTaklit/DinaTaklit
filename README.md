@@ -59,6 +59,7 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinaTaklit&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
 </p>
 
-<!--
+## My Coding activities
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinataklit)](https://github.com/anuraghazra/github-readme-stats)
--->
+
