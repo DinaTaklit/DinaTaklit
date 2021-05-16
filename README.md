@@ -15,6 +15,29 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 
 ![Profile views](https://komarev.com/ghpvc/?username=DinaTaklit&color=d73d4e)
 
+## SCORES & BADGES
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=DinaTaklit&branding=false"
+/>
+
+## TECH SKILLS
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
+/>
+
+## Git Stats
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DinaTaklit&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Dina Taklit's github stars"/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinaTaklit&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
+</p>
+
+## My Coding activities
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinataklit)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Portfolio 
 
 - https://dinataklit.github.io/DinaTaklitPortfolio/
@@ -50,16 +73,4 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 </a>
 <br/>
 <br/>
-
-## Git Stats
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DinaTaklit&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Dina Taklit's github stars"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinaTaklit&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
-</p>
-
-## My Coding activities
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinataklit)](https://github.com/anuraghazra/github-readme-stats)
 
