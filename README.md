@@ -15,7 +15,7 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 
 ![Profile views](https://komarev.com/ghpvc/?username=DinaTaklit&color=d73d4e)
 
-<a href="https://stackexchange.com/users/6304107"><img src="https://stackexchange.com/users/flair/6304107.png?theme=dark" width="208" height="58" alt="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<!-- <a href="https://stackexchange.com/users/6304107"><img src="https://stackexchange.com/users/flair/6304107.png?theme=dark" width="208" height="58" alt="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
 ## SCORES & BADGES
 
