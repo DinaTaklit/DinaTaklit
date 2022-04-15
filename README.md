@@ -74,5 +74,8 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
   <img align="left" alt="Dina TAKLIT | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/codepen.svg" />
 </a>
 <br/>
+
+## my contributions in the last year
+ ![snake gif](https://github.com/DinaTaklit/DinaTaklit/blob/output/github-contribution-grid-snake.gif)
 <br/>
 
