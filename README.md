@@ -40,9 +40,9 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinataklit)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Portfolio 
+## my contributions in the last year
 
-- https://dinataklit.github.io/DinaTaklitPortfolio/
+![snake gif](https://github.com/DinaTaklit/DinaTaklit/blob/output/github-contribution-grid-snake.gif)
 
 ## Contact Me 
 
@@ -74,10 +74,5 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
   <img align="left" alt="Dina TAKLIT | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/codepen.svg" />
 </a>
 <br/>
-
-## my contributions in the last year
-
- ![snake gif](https://github.com/DinaTaklit/DinaTaklit/blob/output/github-contribution-grid-snake.gif)
- 
 <br/>
 
