@@ -76,6 +76,8 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 <br/>
 
 ## my contributions in the last year
+
  ![snake gif](https://github.com/DinaTaklit/DinaTaklit/blob/output/github-contribution-grid-snake.gif)
+ 
 <br/>
 
