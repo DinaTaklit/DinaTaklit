@@ -17,62 +17,30 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 
 <!-- <a href="https://stackexchange.com/users/6304107"><img src="https://stackexchange.com/users/flair/6304107.png?theme=dark" width="208" height="58" alt="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
-## SCORES & BADGES
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=DinaTaklit&branding=false"
-/>
-
 ## TECH SKILLS
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
 />
 
-## Git Stats
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DinaTaklit&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Dina Taklit's github stars"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinaTaklit&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
-</p>
-
-## My Coding activities
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinataklit)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Portfolio 
 
 - https://dinataklit.github.io/DinaTaklitPortfolio/
 
-## Contact Me 
+## My Profiles
 
 
 <a href="https://www.linkedin.com/in/dina-taklit//">
-  <img align="left" alt="Dina TAKLIT' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/dina.taklit/">
-  <img align="left" alt="Dina TAKLIT | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCx4gIbgyVpcAZwAnKEUfJVA/">
-  <img align="left" alt="Dina TAKLIT | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" />
-</a>
-<a href="https://www.quora.com/profile/Dina-Taklit/">
-  <img align="left" alt="Dina TAKLIT | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/quora.svg" />
-</a>
-<a href="https://medium.com/@DinaTAKLIT">
-  <img align="left" alt="Dina TAKLIT | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />
-</a>
-<a href="https://github.com/DinaTaklit">
-  <img align="left" alt="Dina TAKLIT | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  Linkedin
 </a>
 
 <a href="https://stackoverflow.com/users/9039646/dina-taklit">
-  <img align="left" alt="Dina TAKLIT | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+ Stack Overflow
 </a>
 
-<a href="https://codepen.io/DinaTAKLIT">
-  <img align="left" alt="Dina TAKLIT | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/codepen.svg" />
+<a href="[[https://stackoverflow.com/users/9039646/dina-taklit">
+ Coder Ranks
 </a>
+
 <br/>
 <br/>
 
