@@ -32,15 +32,15 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 <a href="https://www.linkedin.com/in/dina-taklit//">
   Linkedin
 </a>
-
+<br/>
 <a href="https://stackoverflow.com/users/9039646/dina-taklit">
  Stack Overflow
 </a>
-
+<br/>
 <a href="[[https://stackoverflow.com/users/9039646/dina-taklit">
  Coder Ranks
 </a>
-
+<br/>
 <br/>
 <br/>
 
