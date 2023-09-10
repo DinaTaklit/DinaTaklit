@@ -20,12 +20,7 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
 />
 
-## My Portfolio 
-
-- https://dinataklit.github.io/DinaTaklitPortfolio/
-
 ## My Profiles
-
 
 <a target="_blank" href="https://www.linkedin.com/in/dina-taklit//">
   Linkedin
