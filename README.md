@@ -11,10 +11,6 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 - 😄 Pronouns: Dina, Zina (I prefer to be called Dina).
 - ⚡ Beside Coding Life: Cooking, House Working, organizing events, managing Fb pages and groups, discovering new cultures and languages, reading books, singing at Sumle, handcrafting or drawing, and sometimes writing stories and poems.
 
-![Profile views](https://komarev.com/ghpvc/?username=DinaTaklit&color=d73d4e)
-
-<!-- <a href="https://stackexchange.com/users/6304107"><img src="https://stackexchange.com/users/flair/6304107.png?theme=dark" width="208" height="58" alt="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
-
 ### My Profiles
 
 <a target="_blank" href="https://www.linkedin.com/in/dina-taklit//">
@@ -28,7 +24,3 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 <a target="_blank"  href="https://profile.codersrank.io/user/dinataklit">
  Coder Ranks
 </a>
-<br/>
-<br/>
-<br/>
-
