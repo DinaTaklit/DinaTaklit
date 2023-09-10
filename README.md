@@ -29,15 +29,15 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 ## My Profiles
 
 
-<a href="https://www.linkedin.com/in/dina-taklit//">
+<a target="_blank" href="https://www.linkedin.com/in/dina-taklit//">
   Linkedin
 </a>
 <br/>
-<a href="https://stackoverflow.com/users/9039646/dina-taklit">
+<a target="_blank" href="https://stackoverflow.com/users/9039646/dina-taklit">
  Stack Overflow
 </a>
 <br/>
-<a href="https://profile.codersrank.io/user/dinataklit">
+<a target="_blank"  href="https://profile.codersrank.io/user/dinataklit">
  Coder Ranks
 </a>
 <br/>
