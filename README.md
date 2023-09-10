@@ -17,7 +17,7 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 
 ### TECH SKILLS
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=ReactJS,Python,JavaScript,HTML,CSS,SCSS,TypeScript,JSON,NodeJS,Shell,Flask"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=ReactJS,React,Python,JavaScript,HTML,CSS,SCSS,TypeScript,JSON,NodeJS,Shell,Flask"
 />
 
 ### My Profiles
