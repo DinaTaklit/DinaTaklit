@@ -37,7 +37,7 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
  Stack Overflow
 </a>
 <br/>
-<a href="[[https://stackoverflow.com/users/9039646/dina-taklit">
+<a href="https://profile.codersrank.io/user/dinataklit">
  Coder Ranks
 </a>
 <br/>
