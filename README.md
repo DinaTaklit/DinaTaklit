@@ -15,12 +15,12 @@ Got any questions? [Contact me](ez_taklit@esi.dz).
 
 <!-- <a href="https://stackexchange.com/users/6304107"><img src="https://stackexchange.com/users/flair/6304107.png?theme=dark" width="208" height="58" alt="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DINA TAKLIT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
-## TECH SKILLS
+### TECH SKILLS
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
 />
 
-## My Profiles
+### My Profiles
 
 <a target="_blank" href="https://www.linkedin.com/in/dina-taklit//">
   Linkedin
